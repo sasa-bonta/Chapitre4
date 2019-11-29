@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4cc8e2d-f4cc-43b0-8e59-0fd5ab216203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CreditLimit/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CreditLimit/CustomerTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Commission">
+  <component name="RunManager" selected="Application.SalaryTest">
     <configuration name="Commission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Commission.Commission" />
       <module name="Chapitre4" />
@@ -90,14 +89,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SalaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SalaryCalculator.SalaryTest" />
+      <module name="Chapitre4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.SalaryCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.GasMileageTest" />
       <item itemvalue="Application.CustomerTest" />
       <item itemvalue="Application.Commission" />
+      <item itemvalue="Application.SalaryTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SalaryTest" />
         <item itemvalue="Application.Commission" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.GasMileageTest" />
@@ -129,5 +143,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/SalaryCalculator/SalaryTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/SalaryCalculator/SalaryTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/SalaryCalculator/SalaryTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/SalaryCalculator/SalaryTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
