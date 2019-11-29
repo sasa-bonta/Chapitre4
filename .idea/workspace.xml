@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4cc8e2d-f4cc-43b0-8e59-0fd5ab216203" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SalaryCalculator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SalaryCalculator/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapitre4/com/company/FindNumber/FindTheLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapitre4/com/company/FindNumber/FindTheLargestNumber.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,52 +40,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindTheLargestNumber">
-    <configuration name="Commission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Commission.Commission" />
-      <module name="Chapitre4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Commission.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CreditLimit.CustomerTest" />
-      <module name="Chapitre4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.CreditLimit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Validation">
     <configuration name="FindTheLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.FindNumber.FindTheLargestNumber" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.FindNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GasMileageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.GasMileage.GasMileageTest" />
-      <module name="Chapitre4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.GasMileage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,20 +67,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tabular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tabular.Tabular" />
+      <module name="Chapitre4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Tabular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TwoLargest.TwoLargest" />
+      <module name="Chapitre4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.TwoLargest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Validation.Validation" />
+      <module name="Chapitre4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.GasMileageTest" />
-      <item itemvalue="Application.CustomerTest" />
-      <item itemvalue="Application.Commission" />
       <item itemvalue="Application.SalaryTest" />
       <item itemvalue="Application.FindTheLargestNumber" />
+      <item itemvalue="Application.Tabular" />
+      <item itemvalue="Application.TwoLargest" />
+      <item itemvalue="Application.Validation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Validation" />
+        <item itemvalue="Application.TwoLargest" />
+        <item itemvalue="Application.Tabular" />
         <item itemvalue="Application.FindTheLargestNumber" />
         <item itemvalue="Application.SalaryTest" />
-        <item itemvalue="Application.Commission" />
-        <item itemvalue="Application.CustomerTest" />
-        <item itemvalue="Application.GasMileageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +171,14 @@
           <url>file://$PROJECT_DIR$/src/com/company/SalaryCalculator/SalaryTest.java</url>
           <line>23</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/Validation/Validation.java</url>
+          <line>6</line>
+          <properties class="com.company.Validation.Validation" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
