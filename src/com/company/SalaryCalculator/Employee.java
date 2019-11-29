@@ -1,8 +1,8 @@
 package com.company.SalaryCalculator;
 
 public class Employee {
-    private double hours;
     private double salaryPerHour;
+    private double hours;
 
     //Constructor
     public Employee(double salaryPerHour, double hours) {
