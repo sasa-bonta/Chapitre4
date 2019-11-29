@@ -8,7 +8,7 @@ public class CustomerTest {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.printf("Enter account number, balance, debit, credit, limit / or -1 to quit : ");
+        System.out.printf("Enter account number, balance, debit, credit, limit or -1 to quit : ");
 
         int accountNumber = input.nextInt();
         int balanceBegin = input.nextInt();
