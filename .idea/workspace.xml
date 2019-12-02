@@ -39,7 +39,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindromes">
+  <component name="RunManager" selected="Application.DecimalEquivalent">
+    <configuration name="DecimalEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DecimalEquivalent.DecimalEquivalent" />
+      <module name="Chapitre4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DecimalEquivalent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Palindromes.Palindromes" />
       <module name="Chapitre4" />
@@ -59,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.Square.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tabular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Tabular.Tabular" />
-      <module name="Chapitre4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Tabular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +106,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tabular" />
       <item itemvalue="Application.TwoLargest" />
       <item itemvalue="Application.Validation" />
       <item itemvalue="Application.SquareOfAsteriks" />
       <item itemvalue="Application.Palindromes" />
+      <item itemvalue="Application.DecimalEquivalent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalEquivalent" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.SquareOfAsteriks" />
         <item itemvalue="Application.Validation" />
         <item itemvalue="Application.TwoLargest" />
-        <item itemvalue="Application.Tabular" />
       </list>
     </recent_temporary>
   </component>
