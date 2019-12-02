@@ -39,13 +39,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecimalEquivalent">
-    <configuration name="DecimalEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DecimalEquivalent.DecimalEquivalent" />
+  <component name="RunManager" selected="Application.PowerOfE">
+    <configuration name="Euler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Factorial.Euler" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DecimalEquivalent.*" />
+          <option name="PATTERN" value="com.company.Factorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Palindromes.Palindromes" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Factorial.Factorial" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Palindromes.*" />
+          <option name="PATTERN" value="com.company.Factorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareOfAsteriks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Square.SquareOfAsteriks" />
+    <configuration name="PowerOfE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Factorial.PowerOfE" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Square.*" />
+          <option name="PATTERN" value="com.company.Factorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TwoLargest.TwoLargest" />
+    <configuration name="RightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Triangle.RightTriangle" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.TwoLargest.*" />
+          <option name="PATTERN" value="com.company.Triangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Validation.Validation" />
+    <configuration name="SidesOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Triangle.SidesOfTriangle" />
       <module name="Chapitre4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Validation.*" />
+          <option name="PATTERN" value="com.company.Triangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +106,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoLargest" />
-      <item itemvalue="Application.Validation" />
-      <item itemvalue="Application.SquareOfAsteriks" />
-      <item itemvalue="Application.Palindromes" />
-      <item itemvalue="Application.DecimalEquivalent" />
+      <item itemvalue="Application.SidesOfTriangle" />
+      <item itemvalue="Application.RightTriangle" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Euler" />
+      <item itemvalue="Application.PowerOfE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecimalEquivalent" />
-        <item itemvalue="Application.Palindromes" />
-        <item itemvalue="Application.SquareOfAsteriks" />
-        <item itemvalue="Application.Validation" />
-        <item itemvalue="Application.TwoLargest" />
+        <item itemvalue="Application.PowerOfE" />
+        <item itemvalue="Application.Euler" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.RightTriangle" />
+        <item itemvalue="Application.SidesOfTriangle" />
       </list>
     </recent_temporary>
   </component>
